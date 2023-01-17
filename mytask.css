@@ -1,0 +1,17 @@
+  .tasks{
+	background-image:url("images/forest.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center;
+	}
+	.card{
+		margin:15px 20px;
+		
+	}
+	h1{
+		text-align:center;
+		background-image:url("images/tree.jpg");
+		background-repeat:no-repeat;
+	    background-size:cover;
+		color:red;
+	}
